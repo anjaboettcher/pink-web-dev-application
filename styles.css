@@ -2,8 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap');
 
 body {
-  margin: 0;
-  padding: 24px 24px 96px 24px;
+  margin: 24px 24px 96px 24px;
 }
 
 .sticky {
